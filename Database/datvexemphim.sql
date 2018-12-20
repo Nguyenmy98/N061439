@@ -51,7 +51,7 @@ CREATE TABLE `phim` (
   `image` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
   `video` varchar(255) COLLATE utf8mb4_unicode_ci NOT NULL,
   `id_dm` int(11) DEFAULT NULL,
-  `ChiTiet` varchar(200) COLLATE utf8mb4_unicode_ci NOT NULL,
+  `ChiTiet` varchar(200) COLLATE utf8mb4_unicode_ci NOT NULL, 
   `TomTat` text COLLATE utf8mb4_unicode_ci NOT NULL
 ) ENGINE=MyISAM DEFAULT CHARSET=utf8mb4 COLLATE=utf8mb4_unicode_ci;
 
