@@ -1,0 +1,109 @@
+body{
+    font-family: Tahoma;
+    font-size: 13px;
+    width: auto;
+    margin :0px auto;
+    height: 1500px;
+}
+
+#main {
+    background-color: antiquewhite;
+    background-image: url("hinhnen1.jpg");
+}
+
+#footer {
+    
+    width:auto;
+    text-align:center;
+    
+    
+    color: white;
+   
+    clear: left;
+    
+}
+
+
+
+.img-footer {
+    width: 100%;
+}
+#menu_top {
+    background:whitesmoke;
+    height:50px;
+    text-align:right;
+}
+#menu_top ul {
+    margin: 0px;
+    padding: 0px;
+}
+#menu_top ul li{
+    list-style: none;
+    float: left;
+}
+.dangnhap {
+    text-decoration: none;
+    display:block;
+    height:40px;
+    padding: 13px 10px 0px 1100px;
+}
+.dangky {
+    text-decoration: none;
+    display:block;
+    height:40px;
+    padding: 13px 0px 0px 3px;
+}
+#banner{
+    background:brown;
+    height:30px;
+    width:auto;
+    text-align:left;
+}
+#banner ul {
+    margin: 0px;
+    padding: 0px;
+}
+#banner ul li {
+    list-style: none;
+    float: left;
+}
+#banner ul li a{
+    text-decoration: none;
+    display:block;
+    height:30px;
+    line-height: auto;
+    color: white;
+    font-size: 15px;
+    padding: 6px 0px 0px 120px;
+    
+}
+#banner ul li a.active{
+    background: #e718ae;
+}
+
+.img-tieude {
+    width: 100%;
+}
+
+
+
+
+
+body {  
+    padding-top: 0px;
+}
+.form-control { 
+    margin-bottom: 10px;
+ }
+.login-screen-bg {  
+    background-color: #EFEFEF;
+ }
+
+
+
+
+
+
+
+
+
